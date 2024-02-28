@@ -1,8 +1,10 @@
-- 👋 Hi, I’m K.SAGAR
-- 👀 I’m interested in Languages like Python,Java
-- 🌱 I’m currently learning HTML, CSS.
+👋 Hello, I'm K.SAGAR
+🚀 Aspiring Software Engineer 
+🌐 Passionate about creating robust and scalable software solutions. My expertise includes [Python, HTML, CSS].
+💡 I enjoy tackling challenges and turning ideas into reality. Currently exploring [Cybersecurity].
+📚 Continuous learner and open-source enthusiast.
+👨‍💻 Check out my projects below to see what I've been working on ------ https://JETIR.org/track.php?r_id=520164
 
-<!---
-ksagar240204/ksagar240204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+     
+🌟 Looking forward to making a positive impact through code!
+
